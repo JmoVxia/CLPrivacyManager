@@ -1,0 +1,23 @@
+/* 
+  InfoPlist.strings
+  CLPrivacyManagerDemo
+
+  Created by AUG on 2018/11/2.
+  Copyright © 2018年 JmoVxia. All rights reserved.
+*/
+CFBundleDisplayName = "权限请求";
+
+NSBluetoothPeripheralUsageDescription = "需要你的同意,才能访问蓝牙";
+NSAppleMusicUsageDescription = "需要你的同意,才能访问媒体资料库";
+NSCalendarsUsageDescription = "需要你的同意,才能访问日历";
+NSCameraUsageDescription = "需要你的同意,才能访问相机";
+NSContactsUsageDescription = "需要你的同意,才能访问通讯录";
+NSHealthShareUsageDescription = "需要你的同意,才能访问健康分享";
+NSHealthUpdateUsageDescription = "需要你的同意,才能访问健康更新";
+NSLocationAlwaysAndWhenInUseUsageDescription = "需要你的同意,才能访问位置";
+NSLocationWhenInUseUsageDescription = "需要你的同意,才能在使用期间访问位置";
+NSMicrophoneUsageDescription = "需要你的同意,才能访问麦克风";
+NSMotionUsageDescription = "需要你的同意,才能访问运动与健身";
+NSPhotoLibraryUsageDescription = "需要你的同意,才能媒体资料库";
+NSRemindersUsageDescription = "需要你的同意,才能访问备忘录";
+NSSpeechRecognitionUsageDescription = "需要你的同意,才能访问语音识别";
